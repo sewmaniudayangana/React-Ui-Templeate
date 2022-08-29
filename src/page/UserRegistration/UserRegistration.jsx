@@ -30,7 +30,24 @@ function UserRegistrationform() {
 
             </div>
         </form>
-        
+           <div>
+             <h2>User Registration Table</h2>
+
+             <table>
+                 <tr>
+                 <th>First Name</th>
+                 <th>Last Name</th>
+                 <th>Email</th>
+                 <th>Contact</th>
+                 </tr>
+                 <tr>
+                 <td> dcdcdc</td>
+                 <td> dcdcdc</td>
+                 <td> dcdcdc</td>
+                 <td> dcdcdc</td>
+                 </tr>
+             </table>
+           </div>
     </div>
   )
 }
