@@ -51,7 +51,7 @@ const ProductManageForm = () => {
         </div>
        
        <div>
-       <Button variant="contained" style={{width:'14vh', left:'140vh' , top:'229px'}} className='buttonone' color='primary'>Save</Button>
+       <Button variant="contained" style={{width:'14vh', left:'140vh' , top:'229px'}} className='buttonone' color='success'>Save</Button>
        <Button variant="contained" style={{width:'14vh', top:'229px'}} className='buttontwo'>Cancel</Button>
        </div>
     
